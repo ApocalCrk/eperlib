@@ -29,9 +29,3 @@ E Perlib merupakan aplikasi peminjaman ruangan dan buku perpustakaan secara onli
 
 - Username: admin
 - Password: admin
-
-## Bonus yang diambil:
-
-### Hosting:
-
-- Backend & Frontend: https://thrush-crucial-frog.ngrok-free.app/
