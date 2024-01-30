@@ -1,0 +1,26 @@
+{
+    "data": [
+      {
+        "responsive_id": "",
+        "no": "1",
+        "kode_ruangan": "R001",
+        "nama_ruangan": "Discussion Room 1",
+        "aksi": "<a class='btn btn-sm btn-warning' data-bs-toggle='modal' data-bs-target='#ubahRuangan'>Edit</a> <a onclick='onDelete()' class='btn btn-sm btn-danger'>Hapus</a>"
+      },
+      {
+        "responsive_id": "",
+        "no": "2",
+        "kode_ruangan": "R002",
+        "nama_ruangan": "Discussion Room 2",
+        "aksi": "<a class='btn btn-sm btn-warning' data-bs-toggle='modal' data-bs-target='#ubahRuangan'>Edit</a> <a onclick='onDelete()' class='btn btn-sm btn-danger'>Hapus</a>"
+      },
+      {
+        "responsive_id": "",
+        "no": "3",
+        "kode_ruangan": "R003",
+        "nama_ruangan": "Discussion Room 3",
+        "aksi": "<a class='btn btn-sm btn-warning' data-bs-toggle='modal' data-bs-target='#ubahRuangan'>Edit</a> <a onclick='onDelete()' class='btn btn-sm btn-danger'>Hapus</a>"
+      }
+    ]
+  }
+  

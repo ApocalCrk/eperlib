@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "responsive_id": "",
+            "no": "1",
+            "judul": "Machine Learning",
+            "isbn": "978-1-4842-4470-8",
+            "npm": "21071111",
+            "nama": "User Testing",
+            "tanggal_pinjam": "2023-12-12",
+            "tanggal_kembali": "2023-12-15",
+            "aksi": "<a href='/admin/peminjaman/edit/1' class='btn btn-sm btn-warning'>Edit</a> <a onclick='onDelete()' class='btn btn-sm btn-danger'>Hapus</a>"
+        }
+    ]
+}

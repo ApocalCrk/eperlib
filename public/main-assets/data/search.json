@@ -1,0 +1,8 @@
+{
+    "listItems": [
+      { "name": "Halaman Utama", "url": "/user/dashboard", "icon": "home", "type": "pages"},
+      { "name": "Keluar", "url": "/user/login", "icon": "log-out", "type": "pages"},
+      { "name": "Machine Learning", "url": "/user/book/1", "img": "book/machine-learning.jpg", "author": "Aurelien Gordon", "type": "books"}
+    ]
+  }
+  

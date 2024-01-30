@@ -1,0 +1,36 @@
+{
+    "data": [
+      {
+        "responsive_id": "",
+        "no": "1",
+        "npm": "21071111",
+        "nama": "User Testing",
+        "email": "21071111@students.uajy.ac.id",
+        "fakultas": "Fakultas Teknologi Industri",
+        "program_studi": "Informatika",
+        "aksi": "<a href='/admin/users/edit/1' class='btn btn-sm btn-warning'>Edit</a> <a onclick='onDelete()' class='btn btn-sm btn-danger'>Hapus</a>"
+      },
+      {
+        "responsive_id": "",
+        "no": "1",
+        "npm": "21071401",
+        "nama": "User Testing 2",
+        "email": "21071111@students.uajy.ac.id",
+        "fakultas": "Fakultas Teknologi Industri",
+        "program_studi": "Informatika",
+        "aksi": "<a href='/admin/users/edit/1' class='btn btn-sm btn-warning'>Edit</a> <a onclick='onDelete()' class='btn btn-sm btn-danger'>Hapus</a>"
+      },
+      {
+        "responsive_id": "",
+        "no": "1",
+        "npm": "21071421",
+        "nama": "User Testing 3",
+        "email": "21071111@students.uajy.ac.id",
+        "fakultas": "Fakultas Teknologi Industri",
+        "program_studi": "Informatika",
+        "aksi": "<a href='/admin/users/edit/1' class='btn btn-sm btn-warning'>Edit</a> <a onclick='onDelete()' class='btn btn-sm btn-danger'>Hapus</a>"
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,15 @@
+{
+    "data": [
+      {
+        "responsive_id": "",
+        "no": "1",
+        "nama": "Admin Testing",
+        "email": "admin@admin.com",
+        "username": "admin",
+        "no_hp": "08123456789",
+        "aksi": "<a href='/admin/admin-list/edit/1' class='btn btn-sm btn-warning'>Edit</a> <a onclick='onDelete()' class='btn btn-sm btn-danger'>Hapus</a>"
+      }
+      
+    ]
+  }
+  

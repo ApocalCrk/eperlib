@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "responsive_id": "",
+            "no": "1",
+            "judul": "Machine Learning",
+            "isbn": "978-1-4842-4470-8",
+            "npm": "21071111",
+            "aksi": "<a class='btn btn-info btn-sm' data-bs-toggle='modal' data-bs-target='#diterima'>Terima</a> <a data-bs-toggle='modal' data-bs-target='#notifikasi' class='btn btn-danger btn-sm'>Kirim Notifikasi</a>"
+        }
+    ]
+}
