@@ -1,7 +1,7 @@
 ## E Perlib
 E Perlib merupakan aplikasi peminjaman ruangan dan buku perpustakaan secara online yang dibuat untuk memenuhi tugas besar mata kuliah Pemrograman Web. Aplikasi ini terintegrasi dengan api UAJY sebagai registrasi dan login.
 
-[Try Here] (https://eperlib.noturminesv.my.id)
+[Try Here] (https://eperlib.noturminesv.my.id)!
 
 **Silahkan melakukan migrate dan seeding terlebih dahulu dengan menjalankan perintah**
 - `php artisan migrate` 
